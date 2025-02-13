@@ -2,7 +2,7 @@ import os
 import shutil
 
 # source directory
-source_directory = "/home/anddy/Downloads"  # path
+source_directory = "~/Downloads"  # path
 
 # file categories
 file_categories = {
